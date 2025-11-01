@@ -1,4 +1,4 @@
-# GR-JewelRob (QBCore)
+# iliyayz-JewelRob (QBCore)
 
 ## 🇮🇷 فارسی
 
